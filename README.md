@@ -1,4 +1,4 @@
-# Portfolio Website - Complete Setup & Deployment Guide
+Woldemariam Abi Portfolio Website - Complete Setup & Deployment Guide
 
 ## Overview
 This is a professional, production-ready portfolio website for Woldemariam Abi (Software Engineering Student) built with:
@@ -310,7 +310,7 @@ npm run test
 ## Support & Contact
 
 - GitHub: https://github.com/woldemaria
-- Email: (Add your email)
+- Email: (abiwoldemary@gmail.com)
 - Phone: +251920001617
 
 ---
